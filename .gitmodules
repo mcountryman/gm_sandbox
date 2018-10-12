@@ -1,0 +1,9 @@
+[submodule "vendor/garrysmod_common"]
+	path = vendor/garrysmod_common
+	url = https://github.com/danielga/garrysmod_common
+[submodule "vendor/sourcesdk-minimal"]
+	path = vendor/sourcesdk-minimal
+	url = https://github.com/danielga/sourcesdk-minimal
+[submodule "vendor/gloo"]
+	path = vendor/gloo
+	url = https://github.com/mcountryman/gloo
